@@ -1,6 +1,6 @@
-<h1> Livro de receitas</h1>
+<h1> Livro de receitas</h1> 👨‍🍳
 
-Olá, bem vindo ao meu livro de receitas.
+Olá, bem vindo ao meu livro de receitas. 
 
-- Strogonoff de frango
+- Strogonoff de frango 🐔
 
