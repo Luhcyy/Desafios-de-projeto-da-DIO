@@ -1,6 +1,5 @@
-<h1> Livro de receitas</h1> 👨‍🍳
+<h1> Repositório de projetos para os desafios da DIO </h1>
 
-Olá, bem vindo ao meu livro de receitas. 
+esse é o local onde todas as minhas atividades da DIO irão.
 
-- Strogonoff de frango 🐔
 
